@@ -1,3 +1,4 @@
+Here is a first line
 Hello world.
 Wow, this is beautiful!
 This third line is specific to the other branch in git, not available in master
