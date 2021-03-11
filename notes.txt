@@ -1,3 +1,4 @@
+Here is a first line
 Hello world.
 Wow, this is beautiful!
 Inserting a line here @@@m
