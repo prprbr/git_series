@@ -1,3 +1,4 @@
 Hello world.
 Wow, this is beautiful!
+Inserting a line here @@@m
 This third line is specific to the other branch in git, not available in master
