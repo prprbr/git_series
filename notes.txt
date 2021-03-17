@@ -3,4 +3,5 @@ Here is a first line
 Hello world.
 Wow, this is beautiful!
 Inserting a line here @@@m
+Trying out a line add to see how pull requests work
 This third line is specific to the other branch in git, not available in master
